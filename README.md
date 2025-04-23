@@ -14,6 +14,7 @@ Uma aplicação web simples que permite ao usuário registrar seus gastos diári
 - Botão para salvar os dados
 - Botão para Editar e Excluir os dados na tabela
 - Tabela para exibição dos dados cadastrados
+- Exição do total de Gastos
 
 ## 📂 Estrutura de Arquivos
 
