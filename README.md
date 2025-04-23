@@ -12,6 +12,7 @@ Uma aplicação web simples que permite ao usuário registrar seus gastos diári
 - Campo para inserir o valor do item
 - Campo para inserir a categoria do item
 - Botão para salvar os dados
+- Botão para Editar e Excluir os dados na tabela
 - Tabela para exibição dos dados cadastrados
 
 ## 📂 Estrutura de Arquivos
@@ -36,24 +37,24 @@ Nenhuma instalação de dependências é necessária, pois o projeto é todo em 
 
 ## 💻 Tecnologias Utilizadas
 
-HTML5
-CSS3
-Biblioteca BootStrap
-JavaScript (vanilla)
+- HTML5
+- CSS3
+- Biblioteca BootStrap
+- JavaScript (vanilla)
 
 ## 🧪 Etapas do Projeto
 
-Desenvolvimento das páginas HTML
-Estilização com CSS
-Implementação de interatividade com JS
-Testes e responsividade
-Deploy com GitHub Pages
+- Desenvolvimento das páginas HTML
+- Estilização com CSS
+- Implementação de interatividade com JS
+- Testes e responsividade
+- Deploy com GitHub Pages
 
 ## 🔒 Acessibilidade & Segurança
 
-Uso de elementos HTML semânticos
-Contraste de cores adequado
-Estrutura clara para leitores de tela
+- Uso de elementos HTML semânticos
+- Contraste de cores adequado
+- Estrutura clara para leitores de tela
 
 ## 📦 Deploy
 
